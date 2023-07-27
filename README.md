@@ -14,16 +14,14 @@ width="500" height="320" />
 <!-- width="500" height="320" /> -->
 
 
-- I am a Full Stack Web Developer looking the solve real world problems. I have a passion for 
-learning and sharing my knowledge with others as publicly as possible.
-- 👀  - :telescope: I’m currently working on  
-HTML, CSS, Bootstrap, Sass, JavaScript, React, 
-django, PostgradeSQL, MySQL, Linux
+- 👀I am interested in web design so I am working hard to become a full stack web designer..
+-  :telescope: I’m currently working on  HTML, CSS, Bootstrap, JavaScript, C# and graphic design :))
 - 🌱  Slowly and steadily, I'm trying to be 
-better than yesterday😉
 - 💞️ I’m looking to collaborate on with other content creators
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
 ### Connect with me:
-bahar.ky092@gmail.com
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/runasin/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:nacikgoz4745@gmail.com)
+
