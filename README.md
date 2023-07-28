@@ -25,6 +25,7 @@ width="500" height="320" />
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/runasin/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:nacikgoz4745@gmail.com)
 <br>
+<img src="https://komarev.com/ghpvc/?username=runasin" alt="visitor counter"  height="28.5"/>
 <br>
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
