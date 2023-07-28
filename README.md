@@ -14,7 +14,7 @@ width="500" height="320" />
 <!-- width="500" height="320" /> -->
 
 
-- 👀I am interested in web design so I am working hard to become a full stack web designer..
+- 👀I am interested in web developer so I am working hard to become a full stack web developer..
 -  :telescope: I’m currently working on  HTML, CSS, Bootstrap, JavaScript, C# and graphic design :))
 - 🌱  Slowly and steadily, I'm trying to be 
 - 💞️ I’m looking to collaborate on with other content creators
